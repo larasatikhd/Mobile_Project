@@ -1,0 +1,48 @@
+name: mobile_project
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  image_picker: ^0.8.4+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Menambahkan assets image ke aplikasi
+  assets:
+    - assets/img/img1.jpeg
+    - assets/img/img2.jpeg
+    - assets/img/img3.jpeg
+    - assets/img/korean.jpeg
+    - assets/img/topi.png
+    - assets/img/jeans.png
+    - assets/img/bags.png
+    - assets/img/clotes.png
+    - assets/img/img6.jpg
+    - assets/img/img8.jpg
+    - assets/img/img7.jpg
+    - assets/img/img9.jpg
+    - assets/img/img4.jpg
+    - assets/img/img5.jpg
+    - assets/img/img5.jpg
+    - assets/img/img10.jpg
+    - assets/img/search1.jpg
+    - assets/img/search2.jpg
+    - assets/img/search3.jpg
+    - assets/img/search4.jpg
+    - assets/img/search5.jpg
+    - assets/img/search6.jpg
